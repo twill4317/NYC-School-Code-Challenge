@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NYC School Code Challenge</string>
+    <string-array name="sort_options">
+        <item>Alphabetical</item>
+        <item>Alphabetical Descending</item>
+        <item>Dbn Ascending</item>
+        <item>Dbn Descending</item>
+        <item>Total Students</item>
+    </string-array>
+    <string-array name="filter_options">
+        <item>Borough</item>
+        <item>Sports</item>
+        <item>Languages</item>
+        <item>Advanced Placement Courses</item>
+    </string-array>
+</resources>
